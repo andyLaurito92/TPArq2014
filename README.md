@@ -8,4 +8,4 @@ Integrantes:
 
 -Bezdjian Alejandro
 
--Gomez Jorge
+-Gomez Jorge Exequiel
